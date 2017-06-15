@@ -6,9 +6,17 @@ this is my second commit
 this is my file one
 ----------------------------
 this code is testing
+<<<<<<< HEAD
 ------------------------------
 ---------------------------------
 here add a new code
 =======
 this is my file one 
 >>>>>>> parent of 490dab7... new status
+=======
+-----------------------
+mobile model
+mobile cost
+mobile emi number
+
+>>>>>>> 4036c312643364542d81a83c2c1d19d38a6078bd
