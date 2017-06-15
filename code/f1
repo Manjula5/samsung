@@ -2,9 +2,13 @@ this is my mobile name
 this is my first commit
 this is my second commit
 -----------------------------
+<<<<<<< HEAD
 this is my file one
 ----------------------------
 this code is testing
 ------------------------------
 ---------------------------------
 here add a new code
+=======
+this is my file one 
+>>>>>>> parent of 490dab7... new status
